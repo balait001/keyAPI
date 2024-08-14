@@ -1,0 +1,2 @@
+# keyAPI
+Generate Random key
