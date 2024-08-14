@@ -1,2 +1,2 @@
 # keyAPI
-Generate Random key
+Random key Generator
